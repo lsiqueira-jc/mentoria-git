@@ -18,7 +18,7 @@ services:
     platform: linux/x86_64
     image: mysql:5.7
     restart: always
-    container_name: db_agenda
+    container_name: db_api
     environment:
       MYSQL_DATABASE: "db"
       MYSQL_USER: "user"
