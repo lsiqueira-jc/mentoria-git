@@ -6,6 +6,32 @@
 - db = Arquivos do banco de dados (Local!!! Não subir para o git)
 - DockerConfig = Arquivos de configuração do Docker
 
+
+## Comandos GIT  
+
+```bash
+git add .
+
+```bash
+git status
+```
+```bash
+git commit -m ""
+``````
+
+```bash
+git checkout nomeDaBranch
+```
+
+```bash
+git checkout -B nomeDaBranch
+```
+
+```bash
+git push origin Suabranch
+```
+
+
 ## Como rodar
 
 ### Levanta o ambiente (na raiz)
